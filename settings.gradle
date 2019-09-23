@@ -1,0 +1,2 @@
+include ':app', ':libico', ':libAnnotation'
+rootProject.name='AnnotationDemo'
